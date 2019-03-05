@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Install node through "sudo npm install"
+
 Save webpack-html-plugin using the command --- "npm i --save-dev html-webpack-plugin"
 
 ## Available Scripts
